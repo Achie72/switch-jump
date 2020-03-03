@@ -1,7 +1,9 @@
 # Switch Jump
 Switch jump is a 1bit puzzle platformer, made in pico-8.
 
-This game was submission for the Full Moon Game Jam 2020, with the theme of: Duality.  
+This game was submission for the Full Moon Game Jam 2020, with the theme of: Duality. 
+
+[**Play in browser**](https://achie72.github.io/switch-jump/)
 [Itch page](https://achie.itch.io/switch-jump)  
 [Full Moon Game Jam page](https://itch.io/jam/full-moon-game-jam/entries)  
 

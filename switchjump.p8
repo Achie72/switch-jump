@@ -23,7 +23,7 @@ global = {
 	gravity = 0.25,
 	mode = 0,
 	state = 0, --0 menu, 1 game
-	level = 5,
+	level = 1,
 	cameraMoving = false,
 	levelStartPosX,
 	levelStartPosY,
@@ -601,7 +601,7 @@ function update_menu()
 		unload_level()
 		global.state = 1
 		global.level = 5
-		load_map(6)
+		load_map(1)
 	end
 	update_enemies()
 end
